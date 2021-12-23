@@ -25,8 +25,9 @@ menu:
     - name: Tags
       url: "tags/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
+    - name: Gallery
+      url: "gallery/"
+      weight: 5
 
 params:
   description: "A personal website for Elise Li Zheng."

@@ -15,6 +15,7 @@ author: Elise Li Zheng
 
 业余时间，我经常出没于各大国家公园观鸟，或者和朋友一起攀岩。
 
+
 ---
 
 
@@ -82,5 +83,12 @@ I believe that the knowledge from the academia should be shared with the public 
 I write research and consulting reports for individuals or businesses on technological and societal impact and how to make sensible communications of them. Contact me for a quote. 
 
 I also translated a few well-known books from English to Chinese, namely I Contain Multitude by Ed Yong, and Scientific Revolution by Steven Shapin. 
+
+
+---
+
+<center> <h1>联系我</h1></center>
+
+<center>email: elise901 [at] gatech.edu<center>
 
 

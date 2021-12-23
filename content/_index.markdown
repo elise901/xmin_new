@@ -84,4 +84,17 @@ I write research and consulting reports for individuals or businesses on technol
 
 I also translated a few well-known books from English to Chinese, namely I Contain Multitude by Ed Yong, and Scientific Revolution by Steven Shapin. 
 
+
+---
+
+<center> <h1>Contact Me</h1></center>
+
+<center>email: elise901 [at] gatech.edu<center>
+
+
+---
+
+
+
+
 <center> <h1>Recent Posts</h1> </center>
