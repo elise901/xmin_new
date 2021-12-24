@@ -22,8 +22,8 @@ menu:
     - name: Post
       url: "post/"
       weight: 3
-    - name: Tags
-      url: "tags/"
+    - name: Works
+      url: "works/"
       weight: 4
     - name: Gallery
       url: "gallery/"
