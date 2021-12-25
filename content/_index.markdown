@@ -19,7 +19,7 @@ When I am not doing research or writing, I enjoy museums, streets, birds, nation
 ---
 
 
-[<center> <h2>Download My Resume</h2> </center>](https://github.com/elise901/elise901/raw/master/CV_Zheng%2C%20Elise%20Li_2021_10.pdf)
+[<center> <h2>Download My Resume</h2> </center>](https://github.com/elise901/elise901/raw/master/CV_Zheng%2C%20Elise%20Li_2021_12.pdf)
 
 
 ---
@@ -36,7 +36,11 @@ When I am not doing research or writing, I enjoy museums, streets, birds, nation
 
 
 
-My research primarily focuses on the personal technologies and its impact on health. I look at various kinds of wearables and the trends of self-tracking/self-quantification, and see how the design, human-machine interaction, collection of bodily data shapes the perception of healthy life. 
+My research primarily focuses on the personal technologies and its impact on health. I look at various kinds of wearables and the trends of self-tracking/self-quantification, and see how the design, human-machine interaction, collection of bodily data shapes the perception of healthy life.
+
+I also look at health perceptions, inequalities, and ethics that are built within artefacts and built-environments. 
+
+As my works mostly anchored in Science and Technology Studies (STS), I am open to inter/trans-disciplinary collaborations. I have presented/published in fields such as STS, health communication, sociology of health and illness, and critical data sciences.
 
 
 
@@ -63,7 +67,7 @@ Courses I have taught or lectured as a teaching assistant:
 * Social Development
 * Science and Technology Studies
 
-
+[Download my Teaching Statement](https://github.com/elise901/elise901/raw/master/Teaching%20Statement_Elise.pdf)
 
 
 ---
@@ -91,6 +95,7 @@ I also translated a few well-known books from English to Chinese, namely _I Cont
 
 <center>email: elise901 [at] gatech.edu<center>
 
+<center>Twitter: @elise901<center>
 
 ---
 
