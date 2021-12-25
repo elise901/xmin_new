@@ -26,7 +26,19 @@ Zheng, E L (2020), Redefining the Datafication of Selves: Review of Data Selves:
 
  ## Other works:
 
-For English articles, see my [Medium](https://medium.com/elise901) .
+For my English articles, see my [Medium](https://medium.com/elise901) .
 
+<p align="center">
+<img src="https://github.com/elise901/elise901/raw/master/STS%20Symposium%20(1).png?raw=true" alt="" width="400px"/>
+</p>
+I presented in the Georgia Tech STS Research Symposium about self-tracking and STS (general audience). See here of my presentation slides: 
 
+[link](https://github.com/elise901/elise901/raw/master/STS%20Symposium.pptx)
+
+<p align="center">
+<img src="https://github.com/elise901/elise901/blob/master/health.JPG?raw=true" alt="" width="400px"/>
+</p>
+I presented in New York Culture Salon (纽约文化沙龙) about "Social Determinants of Health" (general audience, in Chinese). See here of my presentation slides:
+
+[link](https://docs.google.com/presentation/d/1up6UL7ePo3P_VPLfv-JSHH_9351AYn-ELQmJ7ClsFxo/edit?usp=sharing) 
 

@@ -14,7 +14,7 @@ My interdisciplinary research focuses on the relationship between technology and
 
 I went to college at Peking University majoring in Sociology and Political Science, and later finished my masters at London School of Economics. Before continuing my Ph.D. study at Georgia Tech, I worked in the field of science communication as a content creator and volunteered in museums. I am now writing as a free-lancing contributor on issues related to science, technology and society, and my work has been published in various media outlets in Chinese. I receive AAAS EurekAlert! fellowship of International Reporters, and Kranzberg fellowship for technology studies at Georgia Tech.
 
-When I am not doing research or writing, I enjoy museums, streets, birds, national parks, and occasionally go rock climbing with friends.
+When I am not doing research or writing, I enjoy vintage clothes, museums, urban streets, birds, national parks, and occasionally go rock climbing with friends.
 
 ---
 
@@ -36,7 +36,9 @@ When I am not doing research or writing, I enjoy museums, streets, birds, nation
 
 
 
-My research primarily focuses on the personal technologies and its impact on health. I look at various kinds of wearables and the trends of self-tracking/self-quantification, and see how the design, human-machine interaction, collection of bodily data shapes the perception of healthy life.
+My research primarily focuses on the personal technologies and its impact on health. I look at various kinds of wearables and the trends of self-tracking/self-quantification.
+
+Why self-tracking? It's a critical point of how current technological "inscription" of value, ideology and socioeconomic factors influences our ways of life and our building of selfhood. The making, interpretation, and practice of health-related bodily data (such as step counts, diet, heart rates, etc) shape our way of seeing ourselves and how we relate ourselves to the environment. See here of my presentation on Georgia Tech STS Symposium. [link](https://github.com/elise901/elise901/raw/master/STS%20Symposium.pptx)
 
 I also look at health perceptions, inequalities, and ethics that are built within artefacts and built-environments. 
 
@@ -87,6 +89,8 @@ I believe that the knowledge from the academia should be shared with the public 
 I write research and consulting reports for individuals or businesses on societal impact of technology, and how to make sensible communications of them. Contact me for a quote. 
 
 I also translated a few well-known books from English to Chinese, namely _I Contain Multitude_ by Ed Yong, and _Scientific Revolution_ by Steven Shapin. 
+
+See [My Works](/works) for academic and non-academic engagements.
 
 
 ---
